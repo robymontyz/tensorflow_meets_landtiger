@@ -25,7 +25,7 @@ This README shows the technical details of the codebase. Take a look at the [blo
 - [IDE Configurations](#ide-configurations)
 - [Compiler Configurations](#compiler-configurations)
 - [Code Size](#code-size)
-- [Keil and TensorFlow - Getting Started](#keil-and-tensorflow-getting-started)
+- [Keil and TensorFlow - Getting Started](#keil-and-tensorflow---getting-started)
 - [Known issues](#known-issues)
 - [Contributing](#contributing)
 - [Authors](#authors)
