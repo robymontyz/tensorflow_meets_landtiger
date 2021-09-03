@@ -200,7 +200,7 @@ Total ROM Size = RW Data + RO Data + Code
 
 [(Back to top)](#table-of-contents)
 
-Suggestions and improvements [are welcome](http://cas.polito.it/gitlab/nxp-landtiger/neural-network/tensoflow_meets_landtiger/issues).
+Suggestions and improvements [are welcome](https://github.com/robymontyz/tensorflow_meets_landtiger/issues).
 
 Styles used:
 
