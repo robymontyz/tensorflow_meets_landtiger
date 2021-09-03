@@ -14,7 +14,7 @@
 
 I developed this project during Computer Architectures course, A.Y. 2020/2021, at Politecnico di Torino with the help of Professor Paolo Bernardi and Assistant Professor Francesco Angione.
 
-This README shows the technical details of the codebase. Take a look at the [blog post I made]() for more information about the project development.
+This README shows the technical details of the codebase. Take a look at the [blog post I made](http://cas.polito.it/NXP-LANDTIGER@PoliTo-University/) for more information about the project development.
 
 ![board-running](docs/board_running.gif)
 
