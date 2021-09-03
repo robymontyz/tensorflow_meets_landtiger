@@ -212,7 +212,7 @@ Styles used:
 
 [(Back to top)](#table-of-contents)
 
-- [Roberto Alessi s290180](mailto:roberto.alessi@studenti.polito.it) - [![GitHub](https://img.shields.io/github/followers/robymontyz?label=%40robymontyz&style=social)](https://github.com/robymontyz) - [![Twitter](https://img.shields.io/twitter/follow/robymontyz?label=%40robymontyz&style=social)](https://twitter.com/robymontyz)
+- Roberto A. - [![GitHub](https://img.shields.io/github/followers/robymontyz?label=%40robymontyz&style=social)](https://github.com/robymontyz) - [![Twitter](https://img.shields.io/twitter/follow/robymontyz?label=%40robymontyz&style=social)](https://twitter.com/robymontyz)
 
 ## Resources
 
